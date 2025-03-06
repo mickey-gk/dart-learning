@@ -1,0 +1,37 @@
+Write a program to print your name in Dart.
+Write a program to print Hello I am “John Doe” and Hello I’am “John Doe” with single and double quotes.
+Declare constant type of int set value 7.
+Write a program in Dart that finds simple interest. Formula= (p * t * r) / 100
+Write a program to print a square of a number using user input.
+Write a program to print full name of a from first name and last name using user input.
+Write a program to find quotient and remainder of two integers.
+Write a program to swap two numbers.
+Write a program in Dart to remove all whitespaces from String.
+Write a Dart program to convert String to int.
+Suppose, you often go to restaurant with friends and you have to split amount of bill. Write a program to calculate split amount of bill. Formula= (total bill amount) / number of people
+Suppose, your distance to office from home is 25 km and you travel 40 km per hour. Write a program to calculate time taken to reach office in minutes. Formula= (distance) / (speed)
+
+
+Write a dart program to check if the number is odd or even.
+Write a dart program to check whether a character is a vowel or consonant.
+Write a dart program to check whether a number is positive, negative, or zero.
+Write a dart program to print your name 100 times.
+Write a dart program to calculate the sum of natural numbers.
+Write a dart program to generate multiplication tables of 5.
+Write a dart program to generate multiplication tables of 1-9.
+Write a dart program to create a simple calculator that performs addition, subtraction, multiplication, and division.
+Write a dart program to print 1 to 100 but not 41.
+
+
+Write a program in Dart to print your own name using function.
+Write a program in Dart to print even numbers between intervals using function.
+Create a function called greet that takes a name as an argument and prints a greeting message. For example, greet(“John”) should print “Hello, John”.
+Write a program in Dart that generates random password.
+Write a program in Dart that find the area of a circle using function. Formula: pi * r * r
+Write a program in Dart to reverse a String using function.
+Write a program in Dart to calculate power of a certain number. For e.g 5^3=125
+Write a function in Dart named add that takes two numbers as arguments and returns their sum.
+Write a function in Dart called maxNumber that takes three numbers as arguments and returns the largest number.
+Write a function in Dart called isEven that takes a number as an argument and returns True if the number is even, and False otherwise.
+Write a function in Dart called createUser with parameters name, age, and isActive, where isActive has a default value of true.
+Write a function in Dart called calculateArea that calculates the area of a rectangle. It should take length and width as arguments, with a default value of 1 for both. Formula: length * width.
