@@ -1,4 +1,9 @@
 /* functions in dart can be of different type: */
+// function syntax in dart
+/*  return_type function_name(parameters...) {
+  //function body;
+}
+*/
 
 // a simple function with 3 paramenters
 void greetings(String fname, String lname, [String title = "mr/mrs"]) {

@@ -1,0 +1,2 @@
+welcome to dart learning, 
+ this is writing to file excercise.THIS IS AN APPENDED TEXT
